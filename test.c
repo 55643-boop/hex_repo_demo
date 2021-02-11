@@ -1,0 +1,6 @@
+nt main()
+{
+	printf("Hello world");
+	return 0;
+}
+
